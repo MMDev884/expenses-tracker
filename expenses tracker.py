@@ -25,7 +25,7 @@ def aggiungi_spesa(data, tipo, categoria, importo, note):
 def main():
     print("Expense Tracker")
 
-    categorie_disponibili = ['casa', 'gasolio', 'autostrada', 'bar', 'pasti fuori', 'nonna', 'biolo', 'akena']
+    categorie_disponibili = ['casa', 'gasolio', 'autostrada', 'bar', 'pasti fuori']
     tipo_di_spesa = ['in', 'out']
 
     while True:
